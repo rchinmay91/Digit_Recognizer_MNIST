@@ -9,8 +9,9 @@ This repository contains my Google Colab implementation for the Kaggle **Digit R
 
 ## 📊 Model Performance & Results
 * **Algorithm**: Random Forest Classifier
-* **Local Validation Accuracy**: **94.31%** 🎉
-* **Status**: Successfully generated `submission.csv` matching Kaggle's required format.
+* **Local Validation Accuracy**: **94.31%**
+* **Official Kaggle Leaderboard Score**: **0.98546 (98.55% Accuracy)** 🚀🎯
+* **Status**: Successfully submitted and verified on Kaggle.
 
 ## 📦 How to Use This Project
 1. Open the `.ipynb` notebook file in this repository.
